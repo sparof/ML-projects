@@ -1,6 +1,6 @@
 # ML-projects
 
-implementing decision Tree, KNN, bayesian, artificial neural network from scratch and three SVMs on IRIS database 
+implementing decision Tree, KNN, bayesian, artificial neural network from scratch and three SVMs on IRIS dataset
 
 ### Artificial neural network :
 implementing from scratch
